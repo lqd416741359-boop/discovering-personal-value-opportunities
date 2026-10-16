@@ -1,0 +1,5 @@
+interface:
+  display_name: "个人隐性价值与商业机会发现"
+  short_description: "从真实经历中发现优势、机会与低成本验证路径"
+  default_prompt: "Use $discovering-personal-value-opportunities to interview me and uncover evidence-backed strengths and realistic opportunities."
+
