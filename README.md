@@ -1,4 +1,23 @@
-# 个人隐性价值与商业机会发现
+<p align="center">
+  <img src="./assets/hero-banner.png" alt="Hidden Value · Opportunity Map — 个人隐性价值与商业机会发现" width="100%">
+</p>
+
+<h1 align="center">个人隐性价值与商业机会发现</h1>
+
+<p align="center">
+  基于行为证据的访谈式 Codex Skill：从真实经历中发现可迁移优势、职业方向与低成本商业机会
+</p>
+
+<p align="center">
+  <img alt="license MIT" src="https://img.shields.io/badge/license-MIT-C9A85C">
+  <img alt="type Codex Skill" src="https://img.shields.io/badge/type-Codex%20Skill-0E5962">
+  <img alt="language 中文" src="https://img.shields.io/badge/language-%E4%B8%AD%E6%96%87-1C7180">
+  <img alt="status v1.0.0" src="https://img.shields.io/badge/status-v1.0.0-2E8B70">
+</p>
+
+---
+
+## 项目简介
 
 这是一个访谈式 Codex Skill。它从用户真实做过的事情、成果、外部认可、资源和现实约束中，提炼可迁移能力，比较职业与商业机会，并生成低成本的 30/60/90 天验证计划。
 
@@ -42,6 +61,8 @@ discovering-personal-value-opportunities/
 ├── README.md
 ├── LICENSE
 ├── .gitignore
+├── assets/
+│   └── hero-banner.png
 ├── agents/
 │   └── openai.yaml
 └── references/
@@ -53,7 +74,7 @@ discovering-personal-value-opportunities/
     └── report-template.md
 ```
 
-本 Skill 不需要脚本、图片、付费 API、插件、云服务或后台任务。
+顶部横幅仅用于 GitHub 项目展示。Skill 运行不需要脚本、付费 API、插件、云服务或后台任务。
 
 ## 方法边界
 
